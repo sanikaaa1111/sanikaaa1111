@@ -29,23 +29,9 @@
 ### 🍔 My Food App  
 🔹 A dynamic **online food ordering system** built with **Java, JSP, HTML, CSS, MySQL, Tomcat**.  
 🔹 Features: User login, menu browsing, order placement, and order history tracking.  
-🔹 [🔗 View Repository](https://github.com/YourUserName/MyFoodApp)  
+🔹 [🔗 View Repository](https://github.com/sanikaaa1111/My-Food-App)  
 
 <img src="https://github.com/YourUserName/MyFoodApp/raw/main/demo.gif" width="600" alt="Food App Demo"/>
-
----
-
-### 🤖 SAP Automation Bot  
-🔹 Automated workflows using **SAP Build Process Automation**.  
-🔹 Reduces repetitive tasks and increases productivity.  
-🔹 [🔗 View Repository](https://github.com/YourUserName/SAP-Automation-Bot)
-
----
-
-### 🌐 Portfolio Website  
-🔹 Personal **portfolio site** built with **HTML, CSS, JavaScript, PHP, MySQL**.  
-🔹 Responsive design showcasing my projects and skills.  
-🔹 [🔗 View Repository](https://github.com/YourUserName/Portfolio)
 
 ---
 
